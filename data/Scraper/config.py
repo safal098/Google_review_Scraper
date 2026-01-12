@@ -22,7 +22,7 @@ Date: 2025-12-29
 # 4. Create credentials → API key
 # 5. Copy and paste below
 
-GOOGLE_API_KEY = "AIzaSyCACkhakg7_kfOVuJhFenhCP85UgVTPMhw"
+GOOGLE_API_KEY = "YOUR_GOOGLE_DEVELOPER_API_KEYS"
 
 # =============================================================================
 # SEARCH CONFIGURATION
