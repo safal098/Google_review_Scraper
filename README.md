@@ -7,9 +7,7 @@ A comprehensive web scraper for extracting Google reviews from places, hotels, l
 - **Multi-Category Support**: Extract reviews for hotels, temples, restaurants, lakes, and viewpoints
 - **Flexible Scraping Methods**: 
   - Selenium-based web scraping (no API key required)
-  - Google Places API integration (with API key)
-- **Code-Switching Analysis**: Supports analysis of code-switched text (Nepali-English)
-- **Data Cleaning & Preprocessing**: Automated text cleaning and stopword removal
+  - Google Places API integration (with API key)l
 - **Batch Processing**: Handle multiple locations and categories
 - **Rate Limiting**: Built-in delays to prevent API throttling
 - **CSV Export**: Store results in organized CSV files
