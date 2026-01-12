@@ -195,7 +195,7 @@ If you use this scraper in your research, please cite:
 
 ```bibtex
 @software{pokhara_scraper_2025,
-  author = {Safal Aryal},
+  author = {Safal Sharma},
   title = {Google Review Scraper - Pokhara},
   year = {2025},
   url = {https://github.com/safal098/Google_review_Scraper}
