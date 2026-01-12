@@ -1,0 +1,39 @@
+# Google Review Scraper - Pokhara
+# Requirements for running the scraper
+
+# Core Dependencies
+selenium>=4.10.0          # Web scraping and browser automation
+beautifulsoup4>=4.12.0    # HTML parsing and data extraction
+requests>=2.31.0          # HTTP requests library
+
+# Data Processing
+pandas>=2.0.0             # Data manipulation and analysis
+numpy>=1.24.0             # Numerical computing
+
+# Browser Automation Support
+webdriver-manager>=3.9.0  # Automatic ChromeDriver management
+
+# Progress Tracking
+tqdm>=4.66.0              # Progress bars for long operations
+
+# API Integration
+google-api-python-client>=2.100.0  # Google API client
+google-auth-httplib2>=0.2.0        # Google authentication
+google-auth-oauthlib>=1.1.0        # OAuth for Google services
+
+# Text Processing & NLP
+nltk>=3.8.1               # Natural Language Toolkit for text processing
+
+# Utilities
+python-dateutil>=2.8.2    # Date parsing and manipulation
+pytz>=2023.3              # Timezone handling
+
+# Data Validation
+pydantic>=2.0.0           # Data validation using Python type hints
+
+# Logging and Monitoring
+python-dotenv>=1.0.0      # Environment variable management
+
+# Optional: Jupyter support for development
+jupyter>=1.0.0            # Jupyter notebook support
+ipython>=8.0.0            # Enhanced Python shell
