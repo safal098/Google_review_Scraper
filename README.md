@@ -28,17 +28,7 @@ data/
 │   ├── pokhara_reviews_interim.csv        # Intermediate results
 │   ├── pokhara_places.csv                 # Places metadata
 │   └── pokhara_reviews_code_switched.csv  # Code-switched reviews
-├── cleaned data/
-│   ├── merged_cleaned_reviews.csv         # Cleaned review data
-│   ├── cleaned_lakeside_reviews01.csv     # Lakeside reviews (cleaned)
-│   ├── train.csv / train.tsv              # Training data
-│   ├── test.csv / test.tsv                # Test data
-│   └── val.tsv                            # Validation data
-└── hotel_reviews/                         # Individual hotel review files
-
-Categories/
-├── manag_tiktok.csv                       # Management TikTok mentions
-└── trekking_tiktok.csv                    # Trekking TikTok mentions
+                     # Individual hotel review files                    # Trekking TikTok mentions
 ```
 
 ## Installation
